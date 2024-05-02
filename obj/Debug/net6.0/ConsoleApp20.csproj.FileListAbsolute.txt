@@ -1,0 +1,14 @@
+D:\C#\ConsoleApp20\bin\Debug\net6.0\ConsoleApp20.exe
+D:\C#\ConsoleApp20\bin\Debug\net6.0\ConsoleApp20.deps.json
+D:\C#\ConsoleApp20\bin\Debug\net6.0\ConsoleApp20.runtimeconfig.json
+D:\C#\ConsoleApp20\bin\Debug\net6.0\ConsoleApp20.dll
+D:\C#\ConsoleApp20\bin\Debug\net6.0\ConsoleApp20.pdb
+D:\C#\ConsoleApp20\obj\Debug\net6.0\ConsoleApp20.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ConsoleApp20\obj\Debug\net6.0\ConsoleApp20.AssemblyInfoInputs.cache
+D:\C#\ConsoleApp20\obj\Debug\net6.0\ConsoleApp20.AssemblyInfo.cs
+D:\C#\ConsoleApp20\obj\Debug\net6.0\ConsoleApp20.csproj.CoreCompileInputs.cache
+D:\C#\ConsoleApp20\obj\Debug\net6.0\ConsoleApp20.dll
+D:\C#\ConsoleApp20\obj\Debug\net6.0\refint\ConsoleApp20.dll
+D:\C#\ConsoleApp20\obj\Debug\net6.0\ConsoleApp20.pdb
+D:\C#\ConsoleApp20\obj\Debug\net6.0\ConsoleApp20.genruntimeconfig.cache
+D:\C#\ConsoleApp20\obj\Debug\net6.0\ref\ConsoleApp20.dll
